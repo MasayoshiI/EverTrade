@@ -1,0 +1,137 @@
+2022-01-01 15:29:27,937 INFO :: shows basicn info 
+2022-01-01 15:29:27,937 WARNING :: warning message / pay attention 
+2022-01-01 15:29:27,937 ERROR :: error message that will help us debug 
+2022-01-01 15:31:52,836 INFO :: shows basicn info 
+2022-01-01 15:31:52,836 WARNING :: warning message / pay attention 
+2022-01-01 15:31:52,836 ERROR :: error message that will help us debug 
+2022-01-01 15:31:52,836 INFO :: Hello fro Binance connector 
+2022-01-13 23:21:12,900 INFO :: shows basicn info 
+2022-01-13 23:21:12,901 WARNING :: warning message / pay attention 
+2022-01-13 23:21:12,901 ERROR :: error message that will help us debug 
+2022-01-13 23:21:36,608 INFO :: shows basicn info 
+2022-01-13 23:21:36,609 WARNING :: warning message / pay attention 
+2022-01-13 23:21:36,609 ERROR :: error message that will help us debug 
+2022-01-13 23:22:55,559 INFO :: shows basicn info 
+2022-01-13 23:22:55,559 WARNING :: warning message / pay attention 
+2022-01-13 23:22:55,559 ERROR :: error message that will help us debug 
+2022-01-13 23:24:36,628 INFO :: shows basicn info 
+2022-01-13 23:24:36,628 WARNING :: warning message / pay attention 
+2022-01-13 23:24:36,628 ERROR :: error message that will help us debug 
+2022-01-13 23:25:19,916 INFO :: shows basicn info 
+2022-01-13 23:25:19,916 WARNING :: warning message / pay attention 
+2022-01-13 23:25:19,916 ERROR :: error message that will help us debug 
+2022-01-13 23:26:40,982 INFO :: shows basicn info 
+2022-01-13 23:26:40,983 WARNING :: warning message / pay attention 
+2022-01-13 23:26:40,983 ERROR :: error message that will help us debug 
+2022-01-13 23:27:26,612 INFO :: shows basicn info 
+2022-01-13 23:27:26,612 WARNING :: warning message / pay attention 
+2022-01-13 23:27:26,612 ERROR :: error message that will help us debug 
+2022-01-13 23:29:05,361 INFO :: shows basicn info 
+2022-01-13 23:29:05,363 WARNING :: warning message / pay attention 
+2022-01-13 23:29:05,363 ERROR :: error message that will help us debug 
+2022-01-13 23:30:35,026 INFO :: shows basicn info 
+2022-01-13 23:30:35,027 WARNING :: warning message / pay attention 
+2022-01-13 23:30:35,027 ERROR :: error message that will help us debug 
+2022-01-13 23:31:16,566 INFO :: shows basicn info 
+2022-01-13 23:31:16,566 WARNING :: warning message / pay attention 
+2022-01-13 23:31:16,566 ERROR :: error message that will help us debug 
+2022-01-13 23:32:04,466 INFO :: shows basicn info 
+2022-01-13 23:32:04,467 WARNING :: warning message / pay attention 
+2022-01-13 23:32:04,467 ERROR :: error message that will help us debug 
+2022-01-15 17:10:52,829 INFO :: shows basic info 
+2022-01-15 17:10:52,830 WARNING :: warning message / pay attention 
+2022-01-15 17:10:52,830 ERROR :: error message that will help us debug 
+2022-01-15 17:10:52,830 INFO :: Binance client successfully initialized... 
+2022-01-15 17:11:55,190 INFO :: Binance client successfully initialized... 
+2022-01-15 17:14:05,883 INFO :: Binance client successfully initialized... 
+2022-01-15 17:14:41,562 INFO :: Binance client successfully initialized... 
+2022-01-15 17:15:38,126 INFO :: Binance client successfully initialized... 
+2022-01-15 17:16:37,832 INFO :: Binance client successfully initialized... 
+2022-01-15 17:29:27,420 INFO :: Binance client successfully initialized... 
+2022-01-15 17:33:01,181 INFO :: Binance client successfully initialized... 
+2022-01-16 11:22:06,408 INFO :: Binance client successfully initialized... 
+2022-01-16 11:23:38,891 INFO :: Binance client successfully initialized... 
+2022-01-16 11:24:48,967 INFO :: Binance client successfully initialized... 
+2022-01-16 11:25:14,458 INFO :: Binance client successfully initialized... 
+2022-01-16 11:34:40,086 INFO :: Binance client successfully initialized... 
+2022-01-16 15:38:20,115 INFO :: Binance client successfully initialized... 
+2022-01-16 15:39:15,461 INFO :: Binance client successfully initialized... 
+2022-01-16 15:40:24,990 INFO :: Binance client successfully initialized... 
+2022-01-16 15:49:10,394 INFO :: Binance client successfully initialized... 
+2022-01-16 15:53:10,630 INFO :: Binance client successfully initialized... 
+2022-01-16 16:21:14,068 INFO :: Binance client successfully initialized... 
+2022-01-16 16:21:53,367 INFO :: Binance client successfully initialized... 
+2022-01-16 16:22:08,324 INFO :: Binance client successfully initialized... 
+2022-01-16 16:22:23,336 INFO :: Binance client successfully initialized... 
+2022-01-16 16:22:27,580 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:03:42,823 INFO :: Binance client successfully initialized... 
+2022-01-16 17:03:43,898 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:03:44,111 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:03:54,267 INFO :: Binance client successfully initialized... 
+2022-01-16 17:03:54,476 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:03:54,656 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:03:54,824 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:04:19,424 INFO :: Binance client successfully initialized... 
+2022-01-16 17:04:19,629 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:04:19,811 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:04:19,978 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:05:57,358 INFO :: Binance client successfully initialized... 
+2022-01-16 17:06:01,558 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:01,858 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:02,078 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:02,270 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:57,877 INFO :: Binance client successfully initialized... 
+2022-01-16 17:06:58,154 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:58,368 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:58,567 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:06:58,746 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:00,240 INFO :: Binance client successfully initialized... 
+2022-01-16 17:08:00,683 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:00,911 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:01,092 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:01,266 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:57,313 INFO :: Binance client successfully initialized... 
+2022-01-16 17:08:57,480 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:57,670 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:57,885 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:08:58,069 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:33,529 INFO :: Binance client successfully initialized... 
+2022-01-16 17:10:34,492 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:34,684 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:34,869 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:35,109 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:53,799 INFO :: Binance client successfully initialized... 
+2022-01-16 17:10:53,996 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:54,198 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:54,350 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:10:54,551 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:12:23,929 INFO :: Binance client successfully initialized... 
+2022-01-16 17:12:24,803 ERROR :: Error while GET request to /fapi/v3/account: <bound method Response.json of <Response [404]>> (Error Code: 404 
+2022-01-16 17:12:24,983 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:12:25,181 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:12:25,405 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:13:13,858 INFO :: Binance client successfully initialized... 
+2022-01-16 17:13:14,146 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:13:14,406 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:13:14,616 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:13:14,821 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:17:11,718 INFO :: Binance client successfully initialized... 
+2022-01-16 17:17:12,039 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:17:12,247 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:17:12,427 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:17:12,591 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:26:27,086 INFO :: Binance client successfully initialized... 
+2022-01-16 17:26:30,941 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:26:31,120 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:26:31,321 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:26:31,543 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:30:14,217 INFO :: Binance client successfully initialized... 
+2022-01-16 17:30:14,636 ERROR :: Error while GET request to /fapi/v1/account/status: <bound method Response.json of <Response [404]>> (Error Code: 404 
+2022-01-16 17:30:14,913 ERROR :: Error while POST request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:30:15,176 ERROR :: Error while GET request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:30:15,370 ERROR :: Error while DELETE request to /fapi/v1/order: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-01-16 17:43:39,829 INFO :: Binance client successfully initialized... 
+2022-01-16 17:45:16,726 INFO :: Binance client successfully initialized... 
+2022-01-16 17:45:17,031 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
+2022-02-19 17:10:42,827 INFO :: Binance client successfully initialized... 
+2022-02-19 17:10:42,933 ERROR :: Error while GET request to /fapi/v1/account: <bound method Response.json of <Response [401]>> (Error Code: 401 
